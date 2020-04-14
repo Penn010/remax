@@ -94,7 +94,7 @@
     "@types/universal-analytics": "^0.4.4",
     "@types/yargs": "^15.0.0",
     "babel-plugin-loop-optimizer": "^1.4.1",
-    "babel-plugin-tester": "^8.0.1",
+    "babel-plugin-tester": "^9.0.1",
     "chalk": "^3.0.0",
     "eol": "^0.9.1",
     "fs-readdir-recursive": "^1.1.0",
